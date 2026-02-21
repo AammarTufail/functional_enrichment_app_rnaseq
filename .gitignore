@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# GSEApy output
+gsea_output/
+Prerank_*/
+
+# Data files (keep example, ignore user uploads)
+*.xlsx
+uploads/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
