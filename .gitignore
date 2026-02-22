@@ -41,6 +41,6 @@ uploads/
 # Jupyter
 .ipynb_checkpoints/
 
-environment.yml
+
 
 ignore/
